@@ -1,0 +1,363 @@
+2025-04-29 23:46:55,150:INFO: Loading the datasets...
+2025-04-29 23:46:55,259:INFO: - done.
+2025-04-29 23:46:55,489:INFO: Starting training for 100 epoch(s)
+2025-04-29 23:46:55,541:INFO: Epoch 1/100
+2025-04-29 23:48:01,891:INFO: Loading the datasets...
+2025-04-29 23:48:01,988:INFO: - done.
+2025-04-29 23:48:02,179:INFO: Starting training for 100 epoch(s)
+2025-04-29 23:48:02,230:INFO: Epoch 1/100
+2025-04-29 23:52:00,108:INFO: - Train metrics: PSNR: 19.508 ; SSIM: 0.784 ; loss: 791.084
+2025-04-29 23:52:03,623:INFO: - Eval metrics : PSNR: 27.793 ; SSIM: 0.905 ; loss: 127.746
+2025-04-29 23:52:03,641:INFO: - Found new best accuracy
+2025-04-29 23:52:03,642:INFO: Epoch 2/100
+2025-04-29 23:56:01,136:INFO: - Train metrics: PSNR: 27.713 ; SSIM: 0.901 ; loss: 130.418
+2025-04-29 23:56:04,757:INFO: - Eval metrics : PSNR: 27.960 ; SSIM: 0.907 ; loss: 123.329
+2025-04-29 23:56:04,783:INFO: - Found new best accuracy
+2025-04-29 23:56:04,784:INFO: Epoch 3/100
+2025-04-30 00:00:02,471:INFO: - Train metrics: PSNR: 28.107 ; SSIM: 0.911 ; loss: 116.801
+2025-04-30 00:00:05,984:INFO: - Eval metrics : PSNR: 28.100 ; SSIM: 0.909 ; loss: 119.877
+2025-04-30 00:00:06,003:INFO: - Found new best accuracy
+2025-04-30 00:00:06,004:INFO: Epoch 4/100
+2025-04-30 00:04:03,679:INFO: - Train metrics: PSNR: 28.127 ; SSIM: 0.903 ; loss: 116.168
+2025-04-30 00:04:07,153:INFO: - Eval metrics : PSNR: 28.174 ; SSIM: 0.910 ; loss: 118.061
+2025-04-30 00:04:07,172:INFO: - Found new best accuracy
+2025-04-30 00:04:07,172:INFO: Epoch 5/100
+2025-04-30 00:08:04,624:INFO: - Train metrics: PSNR: 28.138 ; SSIM: 0.911 ; loss: 110.102
+2025-04-30 00:08:08,103:INFO: - Eval metrics : PSNR: 28.250 ; SSIM: 0.911 ; loss: 116.196
+2025-04-30 00:08:08,124:INFO: - Found new best accuracy
+2025-04-30 00:08:08,124:INFO: Epoch 6/100
+2025-04-30 00:12:05,808:INFO: - Train metrics: PSNR: 28.549 ; SSIM: 0.922 ; loss: 106.981
+2025-04-30 00:12:09,436:INFO: - Eval metrics : PSNR: 28.287 ; SSIM: 0.911 ; loss: 115.271
+2025-04-30 00:12:09,457:INFO: - Found new best accuracy
+2025-04-30 00:12:09,458:INFO: Epoch 7/100
+2025-04-30 00:16:07,180:INFO: - Train metrics: PSNR: 28.368 ; SSIM: 0.909 ; loss: 109.285
+2025-04-30 00:16:10,667:INFO: - Eval metrics : PSNR: 28.329 ; SSIM: 0.911 ; loss: 114.294
+2025-04-30 00:16:10,692:INFO: - Found new best accuracy
+2025-04-30 00:16:10,693:INFO: Epoch 8/100
+2025-04-30 00:20:08,213:INFO: - Train metrics: PSNR: 28.091 ; SSIM: 0.911 ; loss: 123.351
+2025-04-30 00:20:11,687:INFO: - Eval metrics : PSNR: 28.363 ; SSIM: 0.912 ; loss: 113.546
+2025-04-30 00:20:11,706:INFO: - Found new best accuracy
+2025-04-30 00:20:11,707:INFO: Epoch 9/100
+2025-04-30 00:24:09,511:INFO: - Train metrics: PSNR: 28.264 ; SSIM: 0.911 ; loss: 110.146
+2025-04-30 00:24:12,960:INFO: - Eval metrics : PSNR: 28.410 ; SSIM: 0.912 ; loss: 112.481
+2025-04-30 00:24:12,982:INFO: - Found new best accuracy
+2025-04-30 00:24:12,982:INFO: Epoch 10/100
+2025-04-30 00:28:10,570:INFO: - Train metrics: PSNR: 28.323 ; SSIM: 0.914 ; loss: 110.690
+2025-04-30 00:28:14,209:INFO: - Eval metrics : PSNR: 28.415 ; SSIM: 0.913 ; loss: 112.207
+2025-04-30 00:28:14,232:INFO: - Found new best accuracy
+2025-04-30 00:28:14,232:INFO: Epoch 11/100
+2025-04-30 00:32:12,050:INFO: - Train metrics: PSNR: 28.233 ; SSIM: 0.904 ; loss: 117.878
+2025-04-30 00:32:15,576:INFO: - Eval metrics : PSNR: 28.461 ; SSIM: 0.913 ; loss: 111.204
+2025-04-30 00:32:15,606:INFO: - Found new best accuracy
+2025-04-30 00:32:15,607:INFO: Epoch 12/100
+2025-04-30 00:36:13,274:INFO: - Train metrics: PSNR: 28.442 ; SSIM: 0.907 ; loss: 113.883
+2025-04-30 00:36:16,770:INFO: - Eval metrics : PSNR: 28.501 ; SSIM: 0.913 ; loss: 110.403
+2025-04-30 00:36:16,796:INFO: - Found new best accuracy
+2025-04-30 00:36:16,796:INFO: Epoch 13/100
+2025-04-30 00:40:14,319:INFO: - Train metrics: PSNR: 28.649 ; SSIM: 0.909 ; loss: 103.878
+2025-04-30 00:40:17,807:INFO: - Eval metrics : PSNR: 28.500 ; SSIM: 0.913 ; loss: 110.312
+2025-04-30 00:40:17,826:INFO: Epoch 14/100
+2025-04-30 00:44:15,596:INFO: - Train metrics: PSNR: 27.873 ; SSIM: 0.913 ; loss: 125.820
+2025-04-30 00:44:19,016:INFO: - Eval metrics : PSNR: 28.515 ; SSIM: 0.914 ; loss: 109.926
+2025-04-30 00:44:19,039:INFO: - Found new best accuracy
+2025-04-30 00:44:19,040:INFO: Epoch 15/100
+2025-04-30 00:48:16,691:INFO: - Train metrics: PSNR: 28.555 ; SSIM: 0.916 ; loss: 103.121
+2025-04-30 00:48:20,181:INFO: - Eval metrics : PSNR: 28.561 ; SSIM: 0.914 ; loss: 109.015
+2025-04-30 00:48:20,200:INFO: - Found new best accuracy
+2025-04-30 00:48:20,201:INFO: Epoch 16/100
+2025-04-30 00:52:17,892:INFO: - Train metrics: PSNR: 28.991 ; SSIM: 0.915 ; loss: 94.884
+2025-04-30 00:52:21,398:INFO: - Eval metrics : PSNR: 28.576 ; SSIM: 0.914 ; loss: 108.600
+2025-04-30 00:52:21,419:INFO: - Found new best accuracy
+2025-04-30 00:52:21,420:INFO: Epoch 17/100
+2025-04-30 00:56:19,034:INFO: - Train metrics: PSNR: 29.311 ; SSIM: 0.926 ; loss: 88.718
+2025-04-30 00:56:22,538:INFO: - Eval metrics : PSNR: 28.593 ; SSIM: 0.915 ; loss: 108.277
+2025-04-30 00:56:22,559:INFO: - Found new best accuracy
+2025-04-30 00:56:22,560:INFO: Epoch 18/100
+2025-04-30 01:00:20,132:INFO: - Train metrics: PSNR: 28.925 ; SSIM: 0.919 ; loss: 98.355
+2025-04-30 01:00:23,624:INFO: - Eval metrics : PSNR: 28.594 ; SSIM: 0.915 ; loss: 108.173
+2025-04-30 01:00:23,650:INFO: - Found new best accuracy
+2025-04-30 01:00:23,650:INFO: Epoch 19/100
+2025-04-30 01:04:21,141:INFO: - Train metrics: PSNR: 28.834 ; SSIM: 0.914 ; loss: 99.165
+2025-04-30 01:04:24,685:INFO: - Eval metrics : PSNR: 28.586 ; SSIM: 0.915 ; loss: 108.350
+2025-04-30 01:04:24,703:INFO: Epoch 20/100
+2025-04-30 01:08:22,326:INFO: - Train metrics: PSNR: 28.540 ; SSIM: 0.915 ; loss: 110.827
+2025-04-30 01:08:25,800:INFO: - Eval metrics : PSNR: 28.628 ; SSIM: 0.915 ; loss: 107.535
+2025-04-30 01:08:25,820:INFO: - Found new best accuracy
+2025-04-30 01:08:25,821:INFO: Epoch 21/100
+2025-04-30 01:12:23,569:INFO: - Train metrics: PSNR: 28.683 ; SSIM: 0.919 ; loss: 108.470
+2025-04-30 01:12:27,070:INFO: - Eval metrics : PSNR: 28.643 ; SSIM: 0.915 ; loss: 107.125
+2025-04-30 01:12:27,096:INFO: - Found new best accuracy
+2025-04-30 01:12:27,097:INFO: Epoch 22/100
+2025-04-30 01:16:25,006:INFO: - Train metrics: PSNR: 28.983 ; SSIM: 0.917 ; loss: 97.120
+2025-04-30 01:16:28,424:INFO: - Eval metrics : PSNR: 28.643 ; SSIM: 0.915 ; loss: 107.154
+2025-04-30 01:16:28,449:INFO: Epoch 23/100
+2025-04-30 01:20:26,147:INFO: - Train metrics: PSNR: 28.865 ; SSIM: 0.920 ; loss: 98.989
+2025-04-30 01:20:29,559:INFO: - Eval metrics : PSNR: 28.659 ; SSIM: 0.915 ; loss: 106.722
+2025-04-30 01:20:29,575:INFO: - Found new best accuracy
+2025-04-30 01:20:29,576:INFO: Epoch 24/100
+2025-04-30 01:24:27,082:INFO: - Train metrics: PSNR: 28.663 ; SSIM: 0.915 ; loss: 101.446
+2025-04-30 01:24:30,568:INFO: - Eval metrics : PSNR: 28.657 ; SSIM: 0.916 ; loss: 106.799
+2025-04-30 01:24:30,589:INFO: Epoch 25/100
+2025-04-30 01:28:28,245:INFO: - Train metrics: PSNR: 28.708 ; SSIM: 0.913 ; loss: 104.616
+2025-04-30 01:28:31,713:INFO: - Eval metrics : PSNR: 28.689 ; SSIM: 0.916 ; loss: 106.251
+2025-04-30 01:28:31,737:INFO: - Found new best accuracy
+2025-04-30 01:28:31,738:INFO: Epoch 26/100
+2025-04-30 01:32:29,288:INFO: - Train metrics: PSNR: 28.253 ; SSIM: 0.902 ; loss: 114.314
+2025-04-30 01:32:32,866:INFO: - Eval metrics : PSNR: 28.688 ; SSIM: 0.916 ; loss: 106.036
+2025-04-30 01:32:32,889:INFO: Epoch 27/100
+2025-04-30 01:36:30,607:INFO: - Train metrics: PSNR: 28.752 ; SSIM: 0.917 ; loss: 99.837
+2025-04-30 01:36:34,144:INFO: - Eval metrics : PSNR: 28.722 ; SSIM: 0.916 ; loss: 105.531
+2025-04-30 01:36:34,168:INFO: - Found new best accuracy
+2025-04-30 01:36:34,169:INFO: Epoch 28/100
+2025-04-30 01:40:31,955:INFO: - Train metrics: PSNR: 28.799 ; SSIM: 0.916 ; loss: 102.756
+2025-04-30 01:40:35,449:INFO: - Eval metrics : PSNR: 28.717 ; SSIM: 0.916 ; loss: 105.488
+2025-04-30 01:40:35,462:INFO: Epoch 29/100
+2025-04-30 01:44:32,988:INFO: - Train metrics: PSNR: 28.897 ; SSIM: 0.921 ; loss: 95.829
+2025-04-30 01:44:36,393:INFO: - Eval metrics : PSNR: 28.737 ; SSIM: 0.916 ; loss: 105.064
+2025-04-30 01:44:36,413:INFO: - Found new best accuracy
+2025-04-30 01:44:36,413:INFO: Epoch 30/100
+2025-04-30 01:48:33,977:INFO: - Train metrics: PSNR: 28.634 ; SSIM: 0.917 ; loss: 108.274
+2025-04-30 01:48:37,507:INFO: - Eval metrics : PSNR: 28.723 ; SSIM: 0.916 ; loss: 105.305
+2025-04-30 01:48:37,523:INFO: Epoch 31/100
+2025-04-30 01:52:35,206:INFO: - Train metrics: PSNR: 28.575 ; SSIM: 0.922 ; loss: 118.466
+2025-04-30 01:52:38,777:INFO: - Eval metrics : PSNR: 28.742 ; SSIM: 0.916 ; loss: 104.905
+2025-04-30 01:52:38,787:INFO: - Found new best accuracy
+2025-04-30 01:52:38,787:INFO: Epoch 32/100
+2025-04-30 01:56:36,592:INFO: - Train metrics: PSNR: 28.880 ; SSIM: 0.918 ; loss: 97.780
+2025-04-30 01:56:40,228:INFO: - Eval metrics : PSNR: 28.765 ; SSIM: 0.916 ; loss: 104.522
+2025-04-30 01:56:40,249:INFO: - Found new best accuracy
+2025-04-30 01:56:40,250:INFO: Epoch 33/100
+2025-04-30 02:00:37,849:INFO: - Train metrics: PSNR: 28.769 ; SSIM: 0.929 ; loss: 99.141
+2025-04-30 02:00:41,330:INFO: - Eval metrics : PSNR: 28.760 ; SSIM: 0.916 ; loss: 104.552
+2025-04-30 02:00:41,346:INFO: Epoch 34/100
+2025-04-30 02:04:38,781:INFO: - Train metrics: PSNR: 28.393 ; SSIM: 0.911 ; loss: 115.998
+2025-04-30 02:04:42,464:INFO: - Eval metrics : PSNR: 28.776 ; SSIM: 0.917 ; loss: 104.299
+2025-04-30 02:04:42,483:INFO: - Found new best accuracy
+2025-04-30 02:04:42,484:INFO: Epoch 35/100
+2025-04-30 02:08:40,359:INFO: - Train metrics: PSNR: 29.184 ; SSIM: 0.924 ; loss: 92.953
+2025-04-30 02:08:43,834:INFO: - Eval metrics : PSNR: 28.774 ; SSIM: 0.916 ; loss: 104.402
+2025-04-30 02:08:43,848:INFO: Epoch 36/100
+2025-04-30 02:12:41,234:INFO: - Train metrics: PSNR: 28.937 ; SSIM: 0.921 ; loss: 100.730
+2025-04-30 02:12:44,773:INFO: - Eval metrics : PSNR: 28.781 ; SSIM: 0.917 ; loss: 104.165
+2025-04-30 02:12:44,795:INFO: - Found new best accuracy
+2025-04-30 02:12:44,796:INFO: Epoch 37/100
+2025-04-30 02:16:42,490:INFO: - Train metrics: PSNR: 29.016 ; SSIM: 0.920 ; loss: 100.462
+2025-04-30 02:16:46,058:INFO: - Eval metrics : PSNR: 28.787 ; SSIM: 0.917 ; loss: 104.017
+2025-04-30 02:16:46,081:INFO: - Found new best accuracy
+2025-04-30 02:16:46,082:INFO: Epoch 38/100
+2025-04-30 02:20:43,822:INFO: - Train metrics: PSNR: 28.976 ; SSIM: 0.922 ; loss: 92.307
+2025-04-30 02:20:47,364:INFO: - Eval metrics : PSNR: 28.797 ; SSIM: 0.916 ; loss: 103.755
+2025-04-30 02:20:47,387:INFO: - Found new best accuracy
+2025-04-30 02:20:47,387:INFO: Epoch 39/100
+2025-04-30 02:24:45,127:INFO: - Train metrics: PSNR: 28.548 ; SSIM: 0.916 ; loss: 104.435
+2025-04-30 02:24:48,682:INFO: - Eval metrics : PSNR: 28.807 ; SSIM: 0.917 ; loss: 103.608
+2025-04-30 02:24:48,709:INFO: - Found new best accuracy
+2025-04-30 02:24:48,710:INFO: Epoch 40/100
+2025-04-30 02:28:46,545:INFO: - Train metrics: PSNR: 29.109 ; SSIM: 0.918 ; loss: 91.501
+2025-04-30 02:28:50,060:INFO: - Eval metrics : PSNR: 28.803 ; SSIM: 0.917 ; loss: 103.560
+2025-04-30 02:28:50,075:INFO: Epoch 41/100
+2025-04-30 02:32:47,490:INFO: - Train metrics: PSNR: 28.558 ; SSIM: 0.913 ; loss: 115.048
+2025-04-30 02:32:51,090:INFO: - Eval metrics : PSNR: 28.815 ; SSIM: 0.917 ; loss: 103.370
+2025-04-30 02:32:51,098:INFO: - Found new best accuracy
+2025-04-30 02:32:51,099:INFO: Epoch 42/100
+2025-04-30 02:36:48,660:INFO: - Train metrics: PSNR: 29.161 ; SSIM: 0.914 ; loss: 94.214
+2025-04-30 02:36:52,218:INFO: - Eval metrics : PSNR: 28.812 ; SSIM: 0.917 ; loss: 103.411
+2025-04-30 02:36:52,235:INFO: Epoch 43/100
+2025-04-30 02:40:49,972:INFO: - Train metrics: PSNR: 28.805 ; SSIM: 0.915 ; loss: 109.223
+2025-04-30 02:40:53,484:INFO: - Eval metrics : PSNR: 28.831 ; SSIM: 0.917 ; loss: 103.084
+2025-04-30 02:40:53,505:INFO: - Found new best accuracy
+2025-04-30 02:40:53,506:INFO: Epoch 44/100
+2025-04-30 02:44:51,027:INFO: - Train metrics: PSNR: 28.638 ; SSIM: 0.913 ; loss: 106.319
+2025-04-30 02:44:54,577:INFO: - Eval metrics : PSNR: 28.831 ; SSIM: 0.917 ; loss: 103.015
+2025-04-30 02:44:54,595:INFO: Epoch 45/100
+2025-04-30 02:48:52,161:INFO: - Train metrics: PSNR: 28.430 ; SSIM: 0.918 ; loss: 111.506
+2025-04-30 02:48:55,608:INFO: - Eval metrics : PSNR: 28.828 ; SSIM: 0.917 ; loss: 103.133
+2025-04-30 02:48:55,622:INFO: Epoch 46/100
+2025-04-30 02:52:53,138:INFO: - Train metrics: PSNR: 28.953 ; SSIM: 0.919 ; loss: 99.723
+2025-04-30 02:52:56,597:INFO: - Eval metrics : PSNR: 28.827 ; SSIM: 0.917 ; loss: 103.105
+2025-04-30 02:52:56,615:INFO: Epoch 47/100
+2025-04-30 02:56:54,269:INFO: - Train metrics: PSNR: 29.369 ; SSIM: 0.930 ; loss: 87.381
+2025-04-30 02:56:57,644:INFO: - Eval metrics : PSNR: 28.850 ; SSIM: 0.917 ; loss: 102.675
+2025-04-30 02:56:57,673:INFO: - Found new best accuracy
+2025-04-30 02:56:57,673:INFO: Epoch 48/100
+2025-04-30 03:00:55,293:INFO: - Train metrics: PSNR: 29.097 ; SSIM: 0.914 ; loss: 96.284
+2025-04-30 03:00:58,767:INFO: - Eval metrics : PSNR: 28.848 ; SSIM: 0.917 ; loss: 102.723
+2025-04-30 03:00:58,784:INFO: Epoch 49/100
+2025-04-30 03:04:56,464:INFO: - Train metrics: PSNR: 29.309 ; SSIM: 0.922 ; loss: 92.867
+2025-04-30 03:04:59,879:INFO: - Eval metrics : PSNR: 28.856 ; SSIM: 0.917 ; loss: 102.514
+2025-04-30 03:04:59,904:INFO: - Found new best accuracy
+2025-04-30 03:04:59,905:INFO: Epoch 50/100
+2025-04-30 03:08:57,463:INFO: - Train metrics: PSNR: 29.017 ; SSIM: 0.919 ; loss: 93.075
+2025-04-30 03:09:00,854:INFO: - Eval metrics : PSNR: 28.858 ; SSIM: 0.918 ; loss: 102.506
+2025-04-30 03:09:00,875:INFO: - Found new best accuracy
+2025-04-30 03:09:00,876:INFO: Epoch 51/100
+2025-04-30 03:12:58,714:INFO: - Train metrics: PSNR: 29.013 ; SSIM: 0.919 ; loss: 102.579
+2025-04-30 03:13:02,132:INFO: - Eval metrics : PSNR: 28.870 ; SSIM: 0.917 ; loss: 102.304
+2025-04-30 03:13:02,158:INFO: - Found new best accuracy
+2025-04-30 03:13:02,159:INFO: Epoch 52/100
+2025-04-30 03:16:59,458:INFO: - Train metrics: PSNR: 29.448 ; SSIM: 0.919 ; loss: 86.429
+2025-04-30 03:17:02,948:INFO: - Eval metrics : PSNR: 28.860 ; SSIM: 0.917 ; loss: 102.420
+2025-04-30 03:17:02,964:INFO: Epoch 53/100
+2025-04-30 03:21:00,535:INFO: - Train metrics: PSNR: 28.401 ; SSIM: 0.909 ; loss: 121.772
+2025-04-30 03:21:03,982:INFO: - Eval metrics : PSNR: 28.881 ; SSIM: 0.917 ; loss: 102.060
+2025-04-30 03:21:04,000:INFO: - Found new best accuracy
+2025-04-30 03:21:04,001:INFO: Epoch 54/100
+2025-04-30 03:25:01,637:INFO: - Train metrics: PSNR: 29.083 ; SSIM: 0.924 ; loss: 94.702
+2025-04-30 03:25:05,106:INFO: - Eval metrics : PSNR: 28.864 ; SSIM: 0.918 ; loss: 102.419
+2025-04-30 03:25:05,126:INFO: Epoch 55/100
+2025-04-30 03:29:02,726:INFO: - Train metrics: PSNR: 29.238 ; SSIM: 0.922 ; loss: 94.402
+2025-04-30 03:29:06,204:INFO: - Eval metrics : PSNR: 28.881 ; SSIM: 0.918 ; loss: 102.016
+2025-04-30 03:29:06,221:INFO: Epoch 56/100
+2025-04-30 03:33:03,852:INFO: - Train metrics: PSNR: 28.575 ; SSIM: 0.916 ; loss: 107.601
+2025-04-30 03:33:07,221:INFO: - Eval metrics : PSNR: 28.882 ; SSIM: 0.918 ; loss: 102.028
+2025-04-30 03:33:07,246:INFO: - Found new best accuracy
+2025-04-30 03:33:07,247:INFO: Epoch 57/100
+2025-04-30 03:37:04,970:INFO: - Train metrics: PSNR: 28.969 ; SSIM: 0.900 ; loss: 104.980
+2025-04-30 03:37:08,498:INFO: - Eval metrics : PSNR: 28.886 ; SSIM: 0.918 ; loss: 101.992
+2025-04-30 03:37:08,516:INFO: - Found new best accuracy
+2025-04-30 03:37:08,516:INFO: Epoch 58/100
+2025-04-30 03:41:06,202:INFO: - Train metrics: PSNR: 28.711 ; SSIM: 0.917 ; loss: 115.322
+2025-04-30 03:41:09,694:INFO: - Eval metrics : PSNR: 28.881 ; SSIM: 0.918 ; loss: 102.071
+2025-04-30 03:41:09,712:INFO: Epoch 59/100
+2025-04-30 03:45:07,332:INFO: - Train metrics: PSNR: 29.579 ; SSIM: 0.918 ; loss: 84.720
+2025-04-30 03:45:10,746:INFO: - Eval metrics : PSNR: 28.889 ; SSIM: 0.918 ; loss: 101.924
+2025-04-30 03:45:10,766:INFO: - Found new best accuracy
+2025-04-30 03:45:10,767:INFO: Epoch 60/100
+2025-04-30 03:49:08,438:INFO: - Train metrics: PSNR: 29.136 ; SSIM: 0.919 ; loss: 96.213
+2025-04-30 03:49:11,933:INFO: - Eval metrics : PSNR: 28.900 ; SSIM: 0.918 ; loss: 101.575
+2025-04-30 03:49:11,953:INFO: - Found new best accuracy
+2025-04-30 03:49:11,953:INFO: Epoch 61/100
+2025-04-30 03:53:09,530:INFO: - Train metrics: PSNR: 28.733 ; SSIM: 0.906 ; loss: 115.906
+2025-04-30 03:53:13,087:INFO: - Eval metrics : PSNR: 28.891 ; SSIM: 0.918 ; loss: 101.738
+2025-04-30 03:53:13,099:INFO: Epoch 62/100
+2025-04-30 03:57:10,741:INFO: - Train metrics: PSNR: 28.596 ; SSIM: 0.919 ; loss: 109.774
+2025-04-30 03:57:14,291:INFO: - Eval metrics : PSNR: 28.905 ; SSIM: 0.918 ; loss: 101.488
+2025-04-30 03:57:14,313:INFO: - Found new best accuracy
+2025-04-30 03:57:14,314:INFO: Epoch 63/100
+2025-04-30 04:01:11,944:INFO: - Train metrics: PSNR: 28.940 ; SSIM: 0.917 ; loss: 100.632
+2025-04-30 04:01:15,286:INFO: - Eval metrics : PSNR: 28.907 ; SSIM: 0.918 ; loss: 101.459
+2025-04-30 04:01:15,311:INFO: - Found new best accuracy
+2025-04-30 04:01:15,311:INFO: Epoch 64/100
+2025-04-30 04:05:12,796:INFO: - Train metrics: PSNR: 29.303 ; SSIM: 0.931 ; loss: 88.150
+2025-04-30 04:05:16,256:INFO: - Eval metrics : PSNR: 28.905 ; SSIM: 0.918 ; loss: 101.459
+2025-04-30 04:05:16,270:INFO: Epoch 65/100
+2025-04-30 04:09:13,905:INFO: - Train metrics: PSNR: 29.496 ; SSIM: 0.927 ; loss: 89.297
+2025-04-30 04:09:17,462:INFO: - Eval metrics : PSNR: 28.912 ; SSIM: 0.918 ; loss: 101.282
+2025-04-30 04:09:17,482:INFO: - Found new best accuracy
+2025-04-30 04:09:17,483:INFO: Epoch 66/100
+2025-04-30 04:13:15,036:INFO: - Train metrics: PSNR: 28.646 ; SSIM: 0.916 ; loss: 104.667
+2025-04-30 04:13:18,528:INFO: - Eval metrics : PSNR: 28.908 ; SSIM: 0.918 ; loss: 101.421
+2025-04-30 04:13:18,547:INFO: Epoch 67/100
+2025-04-30 04:17:16,171:INFO: - Train metrics: PSNR: 29.110 ; SSIM: 0.916 ; loss: 99.308
+2025-04-30 04:17:19,604:INFO: - Eval metrics : PSNR: 28.917 ; SSIM: 0.918 ; loss: 101.322
+2025-04-30 04:17:19,628:INFO: - Found new best accuracy
+2025-04-30 04:17:19,629:INFO: Epoch 68/100
+2025-04-30 04:21:17,240:INFO: - Train metrics: PSNR: 29.024 ; SSIM: 0.920 ; loss: 96.257
+2025-04-30 04:21:20,702:INFO: - Eval metrics : PSNR: 28.910 ; SSIM: 0.918 ; loss: 101.278
+2025-04-30 04:21:20,722:INFO: Epoch 69/100
+2025-04-30 04:25:18,319:INFO: - Train metrics: PSNR: 29.064 ; SSIM: 0.922 ; loss: 103.066
+2025-04-30 04:25:21,748:INFO: - Eval metrics : PSNR: 28.901 ; SSIM: 0.918 ; loss: 101.407
+2025-04-30 04:25:21,763:INFO: Epoch 70/100
+2025-04-30 04:29:19,456:INFO: - Train metrics: PSNR: 28.575 ; SSIM: 0.914 ; loss: 105.410
+2025-04-30 04:29:22,928:INFO: - Eval metrics : PSNR: 28.924 ; SSIM: 0.918 ; loss: 101.054
+2025-04-30 04:29:22,958:INFO: - Found new best accuracy
+2025-04-30 04:29:22,959:INFO: Epoch 71/100
+2025-04-30 04:33:20,526:INFO: - Train metrics: PSNR: 27.977 ; SSIM: 0.909 ; loss: 126.697
+2025-04-30 04:33:23,998:INFO: - Eval metrics : PSNR: 28.920 ; SSIM: 0.918 ; loss: 101.128
+2025-04-30 04:33:24,025:INFO: Epoch 72/100
+2025-04-30 04:37:21,670:INFO: - Train metrics: PSNR: 28.721 ; SSIM: 0.913 ; loss: 102.621
+2025-04-30 04:37:25,021:INFO: - Eval metrics : PSNR: 28.916 ; SSIM: 0.918 ; loss: 101.345
+2025-04-30 04:37:25,039:INFO: Epoch 73/100
+2025-04-30 04:41:22,673:INFO: - Train metrics: PSNR: 28.824 ; SSIM: 0.913 ; loss: 113.465
+2025-04-30 04:41:26,147:INFO: - Eval metrics : PSNR: 28.923 ; SSIM: 0.918 ; loss: 101.095
+2025-04-30 04:41:26,162:INFO: Epoch 74/100
+2025-04-30 04:45:23,737:INFO: - Train metrics: PSNR: 28.572 ; SSIM: 0.913 ; loss: 109.599
+2025-04-30 04:45:27,206:INFO: - Eval metrics : PSNR: 28.931 ; SSIM: 0.918 ; loss: 100.913
+2025-04-30 04:45:27,223:INFO: - Found new best accuracy
+2025-04-30 04:45:27,223:INFO: Epoch 75/100
+2025-04-30 04:49:24,743:INFO: - Train metrics: PSNR: 29.183 ; SSIM: 0.922 ; loss: 94.126
+2025-04-30 04:49:28,240:INFO: - Eval metrics : PSNR: 28.930 ; SSIM: 0.918 ; loss: 100.918
+2025-04-30 04:49:28,254:INFO: Epoch 76/100
+2025-04-30 04:53:25,842:INFO: - Train metrics: PSNR: 29.138 ; SSIM: 0.915 ; loss: 99.246
+2025-04-30 04:53:29,367:INFO: - Eval metrics : PSNR: 28.941 ; SSIM: 0.918 ; loss: 100.798
+2025-04-30 04:53:29,393:INFO: - Found new best accuracy
+2025-04-30 04:53:29,394:INFO: Epoch 77/100
+2025-04-30 04:57:26,950:INFO: - Train metrics: PSNR: 29.198 ; SSIM: 0.920 ; loss: 91.067
+2025-04-30 04:57:30,636:INFO: - Eval metrics : PSNR: 28.938 ; SSIM: 0.918 ; loss: 100.820
+2025-04-30 04:57:30,649:INFO: Epoch 78/100
+2025-04-30 05:01:28,209:INFO: - Train metrics: PSNR: 28.726 ; SSIM: 0.902 ; loss: 108.109
+2025-04-30 05:01:31,671:INFO: - Eval metrics : PSNR: 28.941 ; SSIM: 0.918 ; loss: 100.771
+2025-04-30 05:01:31,698:INFO: - Found new best accuracy
+2025-04-30 05:01:31,699:INFO: Epoch 79/100
+2025-04-30 05:05:29,258:INFO: - Train metrics: PSNR: 28.430 ; SSIM: 0.905 ; loss: 117.332
+2025-04-30 05:05:32,650:INFO: - Eval metrics : PSNR: 28.945 ; SSIM: 0.918 ; loss: 100.654
+2025-04-30 05:05:32,661:INFO: - Found new best accuracy
+2025-04-30 05:05:32,662:INFO: Epoch 80/100
+2025-04-30 05:09:30,260:INFO: - Train metrics: PSNR: 28.855 ; SSIM: 0.915 ; loss: 108.712
+2025-04-30 05:09:33,835:INFO: - Eval metrics : PSNR: 28.946 ; SSIM: 0.919 ; loss: 100.661
+2025-04-30 05:09:33,855:INFO: - Found new best accuracy
+2025-04-30 05:09:33,856:INFO: Epoch 81/100
+2025-04-30 05:13:31,514:INFO: - Train metrics: PSNR: 29.035 ; SSIM: 0.928 ; loss: 93.842
+2025-04-30 05:13:34,949:INFO: - Eval metrics : PSNR: 28.938 ; SSIM: 0.918 ; loss: 100.811
+2025-04-30 05:13:34,966:INFO: Epoch 82/100
+2025-04-30 05:17:32,502:INFO: - Train metrics: PSNR: 29.301 ; SSIM: 0.918 ; loss: 94.245
+2025-04-30 05:17:35,960:INFO: - Eval metrics : PSNR: 28.945 ; SSIM: 0.919 ; loss: 100.676
+2025-04-30 05:17:35,985:INFO: Epoch 83/100
+2025-04-30 05:21:33,628:INFO: - Train metrics: PSNR: 28.974 ; SSIM: 0.923 ; loss: 94.866
+2025-04-30 05:21:37,103:INFO: - Eval metrics : PSNR: 28.953 ; SSIM: 0.918 ; loss: 100.498
+2025-04-30 05:21:37,132:INFO: - Found new best accuracy
+2025-04-30 05:21:37,133:INFO: Epoch 84/100
+2025-04-30 05:25:34,686:INFO: - Train metrics: PSNR: 29.287 ; SSIM: 0.922 ; loss: 89.878
+2025-04-30 05:25:38,203:INFO: - Eval metrics : PSNR: 28.946 ; SSIM: 0.919 ; loss: 100.521
+2025-04-30 05:25:38,219:INFO: Epoch 85/100
+2025-04-30 05:29:35,833:INFO: - Train metrics: PSNR: 28.932 ; SSIM: 0.916 ; loss: 102.213
+2025-04-30 05:29:39,216:INFO: - Eval metrics : PSNR: 28.956 ; SSIM: 0.918 ; loss: 100.530
+2025-04-30 05:29:39,235:INFO: - Found new best accuracy
+2025-04-30 05:29:39,236:INFO: Epoch 86/100
+2025-04-30 05:33:36,844:INFO: - Train metrics: PSNR: 29.053 ; SSIM: 0.921 ; loss: 104.011
+2025-04-30 05:33:40,267:INFO: - Eval metrics : PSNR: 28.949 ; SSIM: 0.919 ; loss: 100.608
+2025-04-30 05:33:40,289:INFO: Epoch 87/100
+2025-04-30 05:37:37,806:INFO: - Train metrics: PSNR: 28.609 ; SSIM: 0.915 ; loss: 111.465
+2025-04-30 05:37:41,336:INFO: - Eval metrics : PSNR: 28.954 ; SSIM: 0.919 ; loss: 100.505
+2025-04-30 05:37:41,354:INFO: Epoch 88/100
+2025-04-30 05:41:38,982:INFO: - Train metrics: PSNR: 28.869 ; SSIM: 0.904 ; loss: 103.548
+2025-04-30 05:41:42,406:INFO: - Eval metrics : PSNR: 28.953 ; SSIM: 0.918 ; loss: 100.524
+2025-04-30 05:41:42,421:INFO: Epoch 89/100
+2025-04-30 05:45:40,011:INFO: - Train metrics: PSNR: 28.986 ; SSIM: 0.920 ; loss: 106.299
+2025-04-30 05:45:43,465:INFO: - Eval metrics : PSNR: 28.966 ; SSIM: 0.919 ; loss: 100.179
+2025-04-30 05:45:43,486:INFO: - Found new best accuracy
+2025-04-30 05:45:43,487:INFO: Epoch 90/100
+2025-04-30 05:49:41,117:INFO: - Train metrics: PSNR: 29.119 ; SSIM: 0.923 ; loss: 88.518
+2025-04-30 05:49:44,665:INFO: - Eval metrics : PSNR: 28.970 ; SSIM: 0.919 ; loss: 100.159
+2025-04-30 05:49:44,687:INFO: - Found new best accuracy
+2025-04-30 05:49:44,688:INFO: Epoch 91/100
+2025-04-30 05:53:42,289:INFO: - Train metrics: PSNR: 29.022 ; SSIM: 0.923 ; loss: 94.419
+2025-04-30 05:53:45,711:INFO: - Eval metrics : PSNR: 28.966 ; SSIM: 0.919 ; loss: 100.244
+2025-04-30 05:53:45,726:INFO: Epoch 92/100
+2025-04-30 05:57:43,246:INFO: - Train metrics: PSNR: 29.262 ; SSIM: 0.916 ; loss: 94.847
+2025-04-30 05:57:46,720:INFO: - Eval metrics : PSNR: 28.954 ; SSIM: 0.919 ; loss: 100.328
+2025-04-30 05:57:46,736:INFO: Epoch 93/100
+2025-04-30 06:01:44,272:INFO: - Train metrics: PSNR: 28.818 ; SSIM: 0.922 ; loss: 99.702
+2025-04-30 06:01:47,816:INFO: - Eval metrics : PSNR: 28.960 ; SSIM: 0.919 ; loss: 100.368
+2025-04-30 06:01:47,833:INFO: Epoch 94/100
+2025-04-30 06:05:45,365:INFO: - Train metrics: PSNR: 29.136 ; SSIM: 0.921 ; loss: 95.469
+2025-04-30 06:05:48,734:INFO: - Eval metrics : PSNR: 28.968 ; SSIM: 0.919 ; loss: 100.254
+2025-04-30 06:05:48,751:INFO: Epoch 95/100
+2025-04-30 06:09:46,278:INFO: - Train metrics: PSNR: 29.044 ; SSIM: 0.926 ; loss: 96.861
+2025-04-30 06:09:49,697:INFO: - Eval metrics : PSNR: 28.966 ; SSIM: 0.919 ; loss: 100.323
+2025-04-30 06:09:49,716:INFO: Epoch 96/100
+2025-04-30 06:13:47,354:INFO: - Train metrics: PSNR: 28.408 ; SSIM: 0.916 ; loss: 115.029
+2025-04-30 06:13:50,828:INFO: - Eval metrics : PSNR: 28.958 ; SSIM: 0.919 ; loss: 100.459
+2025-04-30 06:13:50,845:INFO: Epoch 97/100
+2025-04-30 06:17:48,336:INFO: - Train metrics: PSNR: 28.921 ; SSIM: 0.926 ; loss: 97.481
+2025-04-30 06:17:51,783:INFO: - Eval metrics : PSNR: 28.964 ; SSIM: 0.919 ; loss: 100.123
+2025-04-30 06:17:51,796:INFO: Epoch 98/100
+2025-04-30 06:21:49,312:INFO: - Train metrics: PSNR: 29.321 ; SSIM: 0.922 ; loss: 92.622
+2025-04-30 06:21:52,765:INFO: - Eval metrics : PSNR: 28.982 ; SSIM: 0.919 ; loss: 99.813
+2025-04-30 06:21:52,785:INFO: - Found new best accuracy
+2025-04-30 06:21:52,786:INFO: Epoch 99/100
+2025-04-30 06:25:50,323:INFO: - Train metrics: PSNR: 28.884 ; SSIM: 0.916 ; loss: 100.622
+2025-04-30 06:25:53,832:INFO: - Eval metrics : PSNR: 28.965 ; SSIM: 0.919 ; loss: 100.241
+2025-04-30 06:25:53,854:INFO: Epoch 100/100
+2025-04-30 06:29:51,470:INFO: - Train metrics: PSNR: 28.883 ; SSIM: 0.912 ; loss: 104.614
+2025-04-30 06:29:54,923:INFO: - Eval metrics : PSNR: 28.976 ; SSIM: 0.919 ; loss: 99.993

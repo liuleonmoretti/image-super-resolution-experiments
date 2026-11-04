@@ -1,0 +1,7 @@
+model,checkpoint,PSNR,SSIM,num_epochs,batch_size,learning_rate,source
+SRCNN,best,27.319193021621654,0.8982654379365465,300,512,1e-05,Super_Resolution/experiments/srcnn_model/metrics_val_best_weights.json
+SRCNN,last,27.319193021621654,0.8982654379365465,300,512,1e-05,Super_Resolution/experiments/srcnn_model/metrics_val_last_weights.json
+DRRN,best,28.982095622579152,0.9187854131927184,100,64,0.0001,Super_Resolution/experiments/drrn_model/metrics_val_best_weights.json
+DRRN,last,28.976342881528424,0.9188675220894578,100,64,0.0001,Super_Resolution/experiments/drrn_model/metrics_val_last_weights.json
+GAN,best,26.369649343606966,0.8718115906502963,50,128,0.0001,Super_Resolution/experiments/gan_model/metrics_val_best_weights.json
+GAN,last,26.354661035759,0.8722621425786748,50,128,0.0001,Super_Resolution/experiments/gan_model/metrics_val_last_weights.json
